@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Priyanshu-752",
   resume:
-    "https://drive.google.com/file/d/1XxpisGsd4S56NDwIRErTg3-dO18Cu7c5/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1dKrGMRpfTn0WJzNBxEfg_griEzsAaAbu/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/priyanshu-negi-87a56124a/",
   twitter: "https://twitter.com/Priyanshu_1105",
   insta: "https://www.instagram.com/_priyansh_u123/",
@@ -299,11 +299,11 @@ export const projects = [
     description:
       "1st Internal Conference website.Me and my teammeats Mayank Bisht and Gayatri Mehta have worked on the website for School of Computing, Graphic Era Hill University (GEHU) Haldwani (U. K.), India is organizing an “International Conferences on Advanced Computing and Information Science (ICACIS-2023)” which was held on August 11-12th, 2023. It was a conference to write your paper and present it to be selected to public the paper , it was held on international level .",
     image:
-      "https://scontent.fdel25-2.fna.fbcdn.net/v/t39.30808-6/371092205_282423857855861_770251544406786379_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=sly9V9eZ0igAX_4xovS&_nc_ht=scontent.fdel25-2.fna&oh=00_AfDUcRJuFKfPcqID9dcGeXyXM5iRkqGsoJRFKvYZl0SfKg&oe=64EE7A53",
-    tags: ["React Js", "Redux", "Modular Css", "Versel"],
+"https://scontent.fdel25-2.fna.fbcdn.net/v/t39.30808-6/371092205_282423857855861_770251544406786379_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=49d041&_nc_ohc=de0q89HfsF8AX852vtg&_nc_ht=scontent.fdel25-2.fna&oh=00_AfDori6dLYbRqJ_6p0R9zQ6ykRLDutiDWsSBza-78DZ-eA&oe=64FC5213" ,
+   tags: ["React Js", "Redux", "Modular Css", "Versel"],
     category: "web app",
     github: "https://github.com/Priyanshu-752/Dicct",
-    webapp: "https://dicct.vercel.app/",
+    webapp: "https://icacis2023.gehu.ac.in/",
   },
   {
     id: 9,
