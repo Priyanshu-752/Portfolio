@@ -58,8 +58,7 @@ export const skills = [
       {
         name: "Material UI",
         image:
-          "https://scontent.fdel25-2.fna.fbcdn.net/v/t39.30808-6/369793926_282430161188564_391921086163399218_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=HVK7ocrZ8OQAX-qok7o&_nc_ht=scontent.fdel25-2.fna&oh=00_AfBVFkAP7ecGaWykzeX34PXFp06e1r_WUTCEBMhkRxLT4g&oe=64EE8857",
-      },
+          "https://media.licdn.com/dms/image/D4D22AQF-qfzK1EPTVA/feedshare-shrink_800/0/1694803059795?e=1697673600&v=beta&t=_t8aX4vrPy_uKSRBhMUFGixAfnLJaEmVZm_TX0bSHpY",    },
       {
         name: "Tailwind Css",
         image:
@@ -77,8 +76,8 @@ export const skills = [
       {
         name: "Express Js",
         image:
-          "https://scontent.fdel25-3.fna.fbcdn.net/v/t39.30808-6/369794033_282431137855133_5140253181239014524_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=tj93O3cwSK4AX9mXkj_&_nc_ht=scontent.fdel25-3.fna&oh=00_AfCMKoKHhyjNMuUHKFbyam1XMxxePWYLNjr1dzvjKlPHxw&oe=64EF7AC8",
-      },
+          "https://media.licdn.com/dms/image/D4D22AQFG4EvNQbeFKg/feedshare-shrink_800/0/1694803059847?e=1697673600&v=beta&t=mqNSepqpZprIPYaxxafp0RmdGIRBN56BolkWLhk2CwA", 
+        },
       // {
       //   name: "Graph Ql",
       //   image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
@@ -95,8 +94,8 @@ export const skills = [
       },
       {
         name: "Prisma",
-        image: "https://scontent.fdel25-2.fna.fbcdn.net/v/t39.30808-6/371306028_282430281188552_6984461743315635312_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=yVUiVZVwKvwAX8zCBMH&_nc_ht=scontent.fdel25-2.fna&oh=00_AfDDGzAJn9Dw3s48yvhscAXqvPBRGwSUbJTCxOhioS1Yjg&oe=64EF267D",
-      },
+        image: "https://media.licdn.com/dms/image/D4D22AQGXbTzMZSMJvw/feedshare-shrink_800/0/1694803059822?e=1697673600&v=beta&t=a-cimT6SODt80TJFRO-4pSCm0KGfUbvylyrN-PzPvpM" ,
+           },
       {
         name: "MongoDB",
         image:
@@ -119,8 +118,8 @@ export const skills = [
       {
         name: "React Native",
         image:
-          "https://scontent.fdel25-1.fna.fbcdn.net/v/t39.30808-6/370765233_282430347855212_8884491939416879992_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=nuxTyvqECJoAX_DO45O&_nc_ht=scontent.fdel25-1.fna&oh=00_AfBIior1XsP2ZGwNiFzpL0L-eKeqMEGLX8bD0ExAWX0ugA&oe=64EF1385",
-      },
+          "https://media.licdn.com/dms/image/D4D22AQHQexflZ89XCQ/feedshare-shrink_800/0/1694803059803?e=1697673600&v=beta&t=sJU_j-udXEoCuAj86TaL2BXgsoRy0fvrZ3RctldNoSk",
+             },
       {
         name: "Cloudinary",
         image:
@@ -273,7 +272,7 @@ export const education = [
   },
   {
     id: 1,
-    img:"https://scontent.fdel25-5.fna.fbcdn.net/v/t39.30808-6/371060852_282428311188749_5166509813324767841_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=61ECKMS-cBgAX9zIJ2O&_nc_ht=scontent.fdel25-5.fna&oh=00_AfCAELDXfcdTvrsMA2eI6KFe8oOxSRQp1sYx8IOFbZcqHQ&oe=64F00DDC",
+    img:"https://media.licdn.com/dms/image/D4D22AQED9CC9_il8bA/feedshare-shrink_800/0/1694803265102?e=1697673600&v=beta&t=BYLvTZ1qkAkp_FUpnrU7La6gbd3Dx-YMtKZanuwjDXA",
     school: "St. Theresa Sr. Sec. School Kathgodam, Nainital",
     date: "Apr 2019 - Apr 2021",
     grade: "81.2%",
@@ -282,7 +281,7 @@ export const education = [
   },
   {
     id: 2,
-    img:"https://scontent.fdel25-5.fna.fbcdn.net/v/t39.30808-6/371060852_282428311188749_5166509813324767841_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=61ECKMS-cBgAX9zIJ2O&_nc_ht=scontent.fdel25-5.fna&oh=00_AfCAELDXfcdTvrsMA2eI6KFe8oOxSRQp1sYx8IOFbZcqHQ&oe=64F00DDC",
+    img:"https://media.licdn.com/dms/image/D4D22AQED9CC9_il8bA/feedshare-shrink_800/0/1694803265102?e=1697673600&v=beta&t=BYLvTZ1qkAkp_FUpnrU7La6gbd3Dx-YMtKZanuwjDXA",
     school: "St. Theresa Sr. Sec. School Kathgodam, Nainital",
     date: "Apr 2017 - Apr 2019",
     grade: "86.3%",
@@ -298,9 +297,8 @@ export const projects = [
     date: "June 2023 - July 2023",
     description:
       "1st Internal Conference website.Me and my teammeats Mayank Bisht and Gayatri Mehta have worked on the website for School of Computing, Graphic Era Hill University (GEHU) Haldwani (U. K.), India is organizing an “International Conferences on Advanced Computing and Information Science (ICACIS-2023)” which was held on August 11-12th, 2023. It was a conference to write your paper and present it to be selected to public the paper , it was held on international level .",
-    image:
-"https://scontent.fdel25-2.fna.fbcdn.net/v/t39.30808-6/371092205_282423857855861_770251544406786379_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=49d041&_nc_ohc=de0q89HfsF8AX852vtg&_nc_ht=scontent.fdel25-2.fna&oh=00_AfDori6dLYbRqJ_6p0R9zQ6ykRLDutiDWsSBza-78DZ-eA&oe=64FC5213" ,
-   tags: ["React Js", "Redux", "Modular Css", "Versel"],
+    image:"https://media.licdn.com/dms/image/D4D22AQGdW-VUtHts-g/feedshare-shrink_2048_1536/0/1694802746376?e=1697673600&v=beta&t=pCRhT8Wj_P6KOzi-iIHa_FipXbeC2NGshJ6FImdRNiE",
+    tags: ["React Js", "Redux", "Modular Css", "Versel"],
     category: "web app",
     github: "https://github.com/Priyanshu-752/Dicct",
     webapp: "https://icacis2023.gehu.ac.in/",
@@ -311,8 +309,8 @@ export const projects = [
     date: "Jul 2023 - Aug 2023",
     description:
       "Mumble is a video conferencing app in which user can make their personal rooms and can add their friends in it .It has video call , chat functonality , also shows number of participants and many more features.",
-    image:"https://scontent.fdel25-2.fna.fbcdn.net/v/t39.30808-6/370895045_282424071189173_8564230513180238073_n.jpg?stp=dst-jpg_p960x960&_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=HsgMeb8632gAX8g_Y72&_nc_ht=scontent.fdel25-2.fna&oh=00_AfB4eIwt4y2Y9Ii4YhpwhH_AWcKA1qvRt8DpJXb8ena-bg&oe=64EF2C41",
-    tags: [
+    image:"https://media.licdn.com/dms/image/D4D22AQHg7vEJ5mtVXg/feedshare-shrink_2048_1536/0/1694802739115?e=1697673600&v=beta&t=SPW0v7j-Gjyeay_c_wilpVM1i_OdQJy_pgt8Sk6p1JE",
+     tags: [
       "Versel",
       "WebRtc",
       "Tailwind Css",
@@ -330,8 +328,8 @@ export const projects = [
     date: "Mar 2023 - Apr 2023",
     description:
       "It is a news app that provide latest news in front page. It also has search functionality i.e. user can search about the topic about which they want to know , categories section such as sports, politics, entertainment, health, etc.",
-    image:"https://scontent.fdel25-3.fna.fbcdn.net/v/t39.30808-6/371070552_282423151189265_960066167426499426_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=ELaets5efg8AX-P3ZrW&_nc_ht=scontent.fdel25-3.fna&oh=00_AfAtsbp2Vt6b2C-fYflrUYknTIZU9SanBKcQy--towADGg&oe=64EF835D",
-    tags: ["Next Js", "Typescript", "Tailwind Css", "News Api"],
+    image:"https://media.licdn.com/dms/image/D4D22AQHSvYLQHDMSEA/feedshare-shrink_800/0/1694802739895?e=1697673600&v=beta&t=Y2CKVabnh9SB_Rt4P-TQy1CeYL8KJ6bHmoMrI4QSHVA",
+     tags: ["Next Js", "Typescript", "Tailwind Css", "News Api"],
     category: "web app",
     github: "https://github.com/Priyanshu-752/News__Jour",
     webapp: "https://news-jour.vercel.app/",
@@ -342,8 +340,8 @@ export const projects = [
     date: "Mar 2023 - Mar 2023",
     description:
       "It's an resume building app. In this you can add title and can shift the position of the titles, It provides all nesscary information details. ",
-    image:"https://scontent.fdel25-5.fna.fbcdn.net/v/t39.30808-6/371334330_282423687855878_6220517684337265741_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=2v_rfbaWTDAAX8teOVF&_nc_ht=scontent.fdel25-5.fna&oh=00_AfA4OwAssbIo8F5Algj-ZHwiMQY5dIPrn7ySV_t3CmL4jQ&oe=64EF8D34",
-    tags: [
+    image:"https://media.licdn.com/dms/image/D4D22AQGYtqh4D5T0DA/feedshare-shrink_800/0/1694802737790?e=1697673600&v=beta&t=iEevk3jC2dc6LJDLpYY_bLWKmKyLAykvghj1S60_7Ck",
+      tags: [
       "React Js",
       "Node Js",
       "Redux",
@@ -386,7 +384,7 @@ export const projects = [
     date: "Dec 2021 - Apr 2022",
     description:
       "Its a Crypto Maket website, that gives latest information about crypto market and Ups and Downs in the market.It provides all crypto coins details. I have implemented inline styling and crypto API , through this API i have fetched current prices and implemented coins prices in form of graph which show previous 24 hrs , 7 days, 1 year data.",
-    image:"https://scontent.fdel25-3.fna.fbcdn.net/v/t39.30808-6/371031700_282423574522556_7214101626141837207_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=-w87AFwgW88AX88JuAj&_nc_ht=scontent.fdel25-3.fna&oh=00_AfA52fJ4Tk3zS4vbi52Nk-7bMkWxc3F_llZP1_d5XnZ7Gg&oe=64EFEF63",
+    image:"https://media.licdn.com/dms/image/D4D22AQHRIfWObCdGXg/feedshare-shrink_800/0/1694802737894?e=1697673600&v=beta&t=j5585wTuH3A7TQxynY54gMIgJ8T8sxeAq-lz12iJOHw",
     tags: ["React Js", "Chakra Ui", "JavaScript", "Crypto API"],
     category: "web app",
     github: "https://github.com/Priyanshu-752/Ycrypto",
@@ -437,7 +435,7 @@ export const projects = [
     date: "Nov 2022",
     description:
       "Its an Upgraded verson of nike e-commerce website designed by me.",
-    image:"https://scontent.fdel25-1.fna.fbcdn.net/v/t39.30808-6/371332270_282423334522580_5188687247559358953_n.jpg?stp=dst-jpg_p960x960&_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=d2Yg4qEWYaMAX9i1Uhz&_nc_ht=scontent.fdel25-1.fna&oh=00_AfDrCOnDUgNiqU0_Ce6swxawp2tqS2W2VACruMO-Si9U6g&oe=64EE5FFD",
+    image:"https://media.licdn.com/dms/image/D4D22AQGEPqzdA6SzUg/feedshare-shrink_800/0/1694802739913?e=1697673600&v=beta&t=IqOsdF8j39UpDyRde0YM_BAgUrgV6j3ebsHHFTyGJnI",
     tags: ["React Js", "Redux", "Tailwind Css", "Versel"],
     category: "web app",
     github: "https://github.com/Priyanshu-752/Nike-2.0",
