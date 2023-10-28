@@ -65,49 +65,49 @@ export const skills = [
       },
     ],
   },
-  {
-    title: "Backend",
-    skills: [
-      {
-        name: "Node Js",
-        image: "https://nodejs.org/static/images/logo.svg",
-      },
-      {
-        name: "Express Js",
-        image:
-          "https://media.licdn.com/dms/image/D4D22AQFG4EvNQbeFKg/feedshare-shrink_800/0/1694803059847?e=1697673600&v=beta&t=mqNSepqpZprIPYaxxafp0RmdGIRBN56BolkWLhk2CwA", 
-        },
-      {
-        name: "MongoDB",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-      },
-      {
-        name: "Firebase",
-        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
-      },
-    ],
-  },
-  {
-    title: "Apps",
-    skills: [
-      {
-        name: "Java",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-      },
-      {
-        name: "React Native",
-        image:
-          "https://media.licdn.com/dms/image/D4D22AQHQexflZ89XCQ/feedshare-shrink_800/0/1694803059803?e=1697673600&v=beta&t=sJU_j-udXEoCuAj86TaL2BXgsoRy0fvrZ3RctldNoSk",
-             },
-      {
-        name: "Cloudinary",
-        image:
-          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAS1BMVEU0SMUyRsQwRcQ5TcczR8VZadCNmN+vuOnFy++AjdtNX8zx8vv////o6vn7/P7i5fdBVMlicdLY3PTP1PKZo+K6wextfNakreV2g9gfSrnCAAABI0lEQVR4Ad3Rx4EDIQwFUIRE1pDB03+lO2Gd7Qb8L6RHFr8XkAKRJH0bFkoba43z9JGAN4HDskROOn8QUGpsTnlfeorjXUhVQ88SiCT4wa8ChB9RC/pv5a3xBEiZhQfSzfuUvLwTmim2i4KHFTubmeHaUktwGQDpDsoSo71OwREdECizd8CpUE0T6ylABYtEqnJTROXoJAESdRy4A7mylgINM19wLnUXmTaENhxaOnZSwBo5riUxNw/u2F5qXuUOZuwg5A6mOoALXBXdAPmlZjoBVuaRB/PxaiYWKfZcuOMJ8g6EZg4KaA3tfHDyLfYHQAcgHcKE60u1IeYGHDZmi443iy2t94fLReSLtR1Xa4fyxlqN08PTd5JAREG45awCid/JH5X3D4qGe2LBAAAAAElFTkSuQmCC",
-      },
-    ],
-  },
+  // {
+  //   title: "Backend",
+  //   skills: [
+  //     {
+  //       name: "Node Js",
+  //       image: "https://nodejs.org/static/images/logo.svg",
+  //     },
+  //     {
+  //       name: "Express Js",
+  //       image:
+  //         "https://media.licdn.com/dms/image/D4D22AQFG4EvNQbeFKg/feedshare-shrink_800/0/1694803059847?e=1697673600&v=beta&t=mqNSepqpZprIPYaxxafp0RmdGIRBN56BolkWLhk2CwA", 
+  //       },
+  //     {
+  //       name: "MongoDB",
+  //       image:
+  //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+  //     },
+  //     {
+  //       name: "Firebase",
+  //       image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+  //     },
+  //   ],
+  // },
+  // {
+  //   title: "Apps",
+  //   skills: [
+  //     {
+  //       name: "Java",
+  //       image:
+  //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+  //     },
+  //     {
+  //       name: "React Native",
+  //       image:
+  //         "https://media.licdn.com/dms/image/D4D22AQHQexflZ89XCQ/feedshare-shrink_800/0/1694803059803?e=1697673600&v=beta&t=sJU_j-udXEoCuAj86TaL2BXgsoRy0fvrZ3RctldNoSk",
+  //            },
+  //     {
+  //       name: "Cloudinary",
+  //       image:
+  //         "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAS1BMVEU0SMUyRsQwRcQ5TcczR8VZadCNmN+vuOnFy++AjdtNX8zx8vv////o6vn7/P7i5fdBVMlicdLY3PTP1PKZo+K6wextfNakreV2g9gfSrnCAAABI0lEQVR4Ad3Rx4EDIQwFUIRE1pDB03+lO2Gd7Qb8L6RHFr8XkAKRJH0bFkoba43z9JGAN4HDskROOn8QUGpsTnlfeorjXUhVQ88SiCT4wa8ChB9RC/pv5a3xBEiZhQfSzfuUvLwTmim2i4KHFTubmeHaUktwGQDpDsoSo71OwREdECizd8CpUE0T6ylABYtEqnJTROXoJAESdRy4A7mylgINM19wLnUXmTaENhxaOnZSwBo5riUxNw/u2F5qXuUOZuwg5A6mOoALXBXdAPmlZjoBVuaRB/PxaiYWKfZcuOMJ8g6EZg4KaA3tfHDyLfYHQAcgHcKE60u1IeYGHDZmi443iy2t94fLReSLtR1Xa4fyxlqN08PTd5JAREG45awCid/JH5X3D4qGe2LBAAAAAElFTkSuQmCC",
+  //     },
+  //   ],
+  // },
   {
     title: "Others",
     skills: [
