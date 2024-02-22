@@ -36,6 +36,11 @@ export const skills = [
           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
       },
       {
+        name: "React Native",
+        image:
+              "https://media.licdn.com/dms/image/D4D22AQHQexflZ89XCQ/feedshare-shrink_800/0/1694803059803?e=1697673600&v=beta&t=sJU_j-udXEoCuAj86TaL2BXgsoRy0fvrZ3RctldNoSk",
+                   },
+      {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
       },
@@ -65,29 +70,29 @@ export const skills = [
       },
     ],
   },
-  // {
-  //   title: "Backend",
-  //   skills: [
-  //     {
-  //       name: "Node Js",
-  //       image: "https://nodejs.org/static/images/logo.svg",
-  //     },
-  //     {
-  //       name: "Express Js",
-  //       image:
-  //         "https://media.licdn.com/dms/image/D4D22AQFG4EvNQbeFKg/feedshare-shrink_800/0/1694803059847?e=1697673600&v=beta&t=mqNSepqpZprIPYaxxafp0RmdGIRBN56BolkWLhk2CwA", 
-  //       },
-  //     {
-  //       name: "MongoDB",
-  //       image:
-  //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-  //     },
-  //     {
-  //       name: "Firebase",
-  //       image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
-  //     },
-  //   ],
-  // },
+  {
+    title: "Backend",
+    skills: [
+      {
+        name: "Node Js",
+        image: "https://nodejs.org/static/images/logo.svg",
+      },
+      {
+        name: "Express Js",
+        image:
+          "https://media.licdn.com/dms/image/D4D22AQFG4EvNQbeFKg/feedshare-shrink_800/0/1694803059847?e=1697673600&v=beta&t=mqNSepqpZprIPYaxxafp0RmdGIRBN56BolkWLhk2CwA", 
+        },
+      {
+        name: "MongoDB",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+      },
+      {
+        name: "Firebase",
+        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+      },
+    ],
+  },
   // {
   //   title: "Apps",
   //   skills: [
@@ -162,27 +167,25 @@ export const experiences = [
     skills: [
       "ReactJS",
       "Redux",
-      "NodeJs",
       "Tailwind Css",
       "PHP",
       "HTML",
       "CSS",
       "JavaScript",
-      "MongoDB",
     ],
   },
 
   {
     id: 3,
     img: "https://media.licdn.com/dms/image/D4D0BAQHWecVdo6_CUw/company-logo_100_100/0/1690364566368?e=1699488000&v=beta&t=tzCUpVX-15yiTecvef9jh9Qbx9A8rGEnDyU2f0Vp2Kw",
-    role: "Web Developer Intern",
+    role: "Frontend Developer Intern",
     company: "Highpolar Software",
-    date: "Aug 2022 - Oct 2022",
-    desc: "As an Web Developer Intern at Highpolar Software from Augest 2022 to October 2022, I gained valuable hands-on experience in website development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and Mongo Db and implemented a front-end with react, which was designed using Figma. I also added a some features, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Website development and gave me an opportunity to work in a collaborative team environment.",
+    date: "Feb 2024 - Ongoing",
+    desc: "As an Frontend Developer Intern at Highpolar Software, I am gaining valuable hands-on experience in app as well as website development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and Mongo Db and implemented a front-end with react, which was designed using Figma. I also added a some features, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Website development and gave me an opportunity to work in a collaborative team environment.",
     skills: [
-      "Team Work",
+      "Next Js",
       "ReactJS",
-      "Redux",
+      "React Native",
       "NodeJs",
       "Tailwind Css",
       "HTML",
@@ -200,7 +203,7 @@ export const education = [
     img: "https://media.licdn.com/dms/image/C4D0BAQEm_0ntX9UAlg/company-logo_200_200/0/1672719888099?e=1699488000&v=beta&t=CDxq4U88gQwFMMrev3xDgGCIZvsGGQJhEgZEurSOSTo",
     school: "Graphic Era Hill University, Haldwani",
     date: "Oct 2021 - July 2025",
-    grade: "8.12 CGPA",
+    grade: "7.8 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Graphic Era Hill University, Haldwani. Currently in 5th semester. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web XR, and UI/UX, among others. I am also a member of the Software Development Cell at GEHU, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
@@ -231,11 +234,27 @@ export const projects = [
     date: "June 2023 - July 2023",
     description:
       "1st Internal Conference website.Me and my teammeats Mayank Bisht and Gayatri Mehta have worked on the website for School of Computing, Graphic Era Hill University (GEHU) Haldwani (U. K.), India is organizing an “International Conferences on Advanced Computing and Information Science (ICACIS-2023)” which was held on August 11-12th, 2023. It was a conference to write your paper and present it to be selected to public the paper , it was held on international level .",
-    image:"https://media.licdn.com/dms/image/D4D22AQGdW-VUtHts-g/feedshare-shrink_2048_1536/0/1694802746376?e=1701302400&v=beta&t=zW_BOXGHe4AeL-jyvVW_aOdWBpq49npkvO4gFhdialM",
+    image:"../images/game.png",
     tags: ["React Js", "Redux", "Modular Css", "Versel"],
     category: "web app",
     github: "https://github.com/Priyanshu-752/Dicct",
     webapp: "https://icacis2023.gehu.ac.in/",
+  },
+  {
+    id: 3,
+    title: "Ride Share",
+    date: "Jan 2024 - Ongoing",
+    description:" A groundbreaking platform fusing Uber-style ride-hailing with localized transport solutions, linking users seamlessly with rickshaw and auto drivers. Additionally, innovatively designed a thriving local marketplace within the app, connecting users with trustworthy household workers, mechanics, plumbers, and more.",
+    image:"https://media.licdn.com/dms/image/D4D22AQHg7vEJ5mtVXg/feedshare-shrink_2048_1536/0/1694802739115?e=1701302400&v=beta&t=8SoUCBFCurSr3rIhfZ5WJyjikzzWQZa1NqY7FHigcYE",
+     tags: [
+      "React Native",
+      "MongoDB",
+      "NodeJs",
+      "Express",
+    ],
+    category: "android app",
+    github: "https://github.com/Priyanshu-752/rideshare",
+    // webapp: "https://video-chat-ashen.vercel.app/",
   },
   {
     id: 9,
@@ -255,6 +274,33 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Priyanshu-752/video_chat",
     webapp: "https://video-chat-ashen.vercel.app/",
+  },
+  {
+    id: 7,
+    title: "Paper Bank",
+    date: "Dec 2023 - Feb 2024",
+    description:"It a platform for the students where you get all question papers at one place and research paper to get reference for your projects. Built by the Software Cell Team of Graphic Era Hill University, Haldwani.",
+    image:"../images/game.png",
+    tags: ["React Js", "Redux", "Modular Css", "Versel"],
+    category: "web app",
+    github: "https://github.com/Priyanshu-752/Paper-Bank",
+    webapp: "https://paper-bank.vercel.app/",
+  },
+  {
+    id: 2,
+    title: "Fitness App",
+    date: "Dec 2023 - Jan 2024",
+    description:"A fitness app that provides all the information about all the most effective experiences listed in a categorial manner with dummy animation of the experiences ",
+    image:"https://media.licdn.com/dms/image/D4D22AQHg7vEJ5mtVXg/feedshare-shrink_2048_1536/0/1694802739115?e=1701302400&v=beta&t=8SoUCBFCurSr3rIhfZ5WJyjikzzWQZa1NqY7FHigcYE",
+     tags: [
+      "Typescript",
+      "React Native",
+      "Tailwind Css",
+      "Rapid Api",
+    ],
+    category: "android app",
+    github: "https://github.com/Priyanshu-752/video_chat",
+    // webapp: "https://video-chat-ashen.vercel.app/",
   },
   {
     id: 0,
@@ -287,19 +333,6 @@ export const projects = [
   },
 
   {
-    id: 3,
-    title: "Ycrypto",
-    date: "Dec 2021 - Apr 2022",
-    description:
-      "Its a Crypto Maket website, that gives latest information about crypto market and Ups and Downs in the market.It provides all crypto coins details. I have implemented inline styling and crypto API , through this API i have fetched current prices and implemented coins prices in form of graph which show previous 24 hrs , 7 days, 1 year data.",
-    image:"https://media.licdn.com/dms/image/D4D22AQHRIfWObCdGXg/feedshare-shrink_2048_1536/0/1694802737948?e=1701302400&v=beta&t=wm4kIwSup6Gp5iaRoGPou2W4Nqh67XZxIn0Bbm6NfYQ",
-    tags: ["React Js", "Chakra Ui", "JavaScript", "Crypto API"],
-    category: "web app",
-    github: "https://github.com/Priyanshu-752/Ycrypto",
-    webapp: "https://ycrypto.vercel.app/",
-  },
-
-  {
     id: 6,
     title: "Nike 2.0",
     date: "Nov 2022",
@@ -311,7 +344,6 @@ export const projects = [
     github: "https://github.com/Priyanshu-752/Nike-2.0",
     webapp: "https://nike-2-0.vercel.app/",
   },
-
 
 ];
 
