@@ -1,3 +1,21 @@
+import Icas from "../images/icasc.jpeg";
+import Nike from "../images/nike.jpeg";
+import Resume from "../images/resume.jpeg";
+import Gehu from "../images/gehu.png";
+import Ar from "../images/ar.png";
+import Call from "../images/call.png";
+import Paper from "../images/paper.png";
+import News from "../images/news.png";
+import School from "../images/school.jpg";
+import Gr from "../images/gr.jpg";
+import High from "../images/high.jpg";
+import Figma from "../images/figma.png";
+import Mui from "../images/mui.png";
+import Exp from "../images/express.png";
+import Post from "../images/postman.png";
+import Git from "../images/git.png";
+import Fit from "../images/fit.png";
+
 export const Bio = {
   name: "Priyanshu Negi",
   roles: [
@@ -9,7 +27,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Priyanshu-752",
   resume:
-    "https://drive.google.com/file/d/1pLUriqiffPiS3vqIklb4d2gYoc7zo249/view?usp=drivesdk",
+    "https://drive.google.com/file/d/11lTv_xH3M37oXXx5QUhaU5ezfef3cyIi/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/priyanshu-negi-87a56124a/",
   twitter: "https://twitter.com/Priyanshu_1105",
   insta: "https://www.instagram.com/_priyansh_u123/",
@@ -37,9 +55,8 @@ export const skills = [
       },
       {
         name: "React Native",
-        image:
-              "https://media.licdn.com/dms/image/D4D22AQHQexflZ89XCQ/feedshare-shrink_800/0/1694803059803?e=1697673600&v=beta&t=sJU_j-udXEoCuAj86TaL2BXgsoRy0fvrZ3RctldNoSk",
-                   },
+        image:"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+                },
       {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -61,8 +78,7 @@ export const skills = [
       },
       {
         name: "Material UI",
-        image:
-          "https://media.licdn.com/dms/image/D4D22AQF-qfzK1EPTVA/feedshare-shrink_800/0/1694803059795?e=1697673600&v=beta&t=_t8aX4vrPy_uKSRBhMUFGixAfnLJaEmVZm_TX0bSHpY",    },
+        image:Mui,    },
       {
         name: "Tailwind Css",
         image:
@@ -79,9 +95,8 @@ export const skills = [
       },
       {
         name: "Express Js",
-        image:
-          "https://media.licdn.com/dms/image/D4D22AQFG4EvNQbeFKg/feedshare-shrink_800/0/1694803059847?e=1697673600&v=beta&t=mqNSepqpZprIPYaxxafp0RmdGIRBN56BolkWLhk2CwA", 
-        },
+        image:Exp,
+          },
       {
         name: "MongoDB",
         image:
@@ -93,34 +108,13 @@ export const skills = [
       },
     ],
   },
-  // {
-  //   title: "Apps",
-  //   skills: [
-  //     {
-  //       name: "Java",
-  //       image:
-  //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-  //     },
-  //     {
-  //       name: "React Native",
-  //       image:
-  //         "https://media.licdn.com/dms/image/D4D22AQHQexflZ89XCQ/feedshare-shrink_800/0/1694803059803?e=1697673600&v=beta&t=sJU_j-udXEoCuAj86TaL2BXgsoRy0fvrZ3RctldNoSk",
-  //            },
-  //     {
-  //       name: "Cloudinary",
-  //       image:
-  //         "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAS1BMVEU0SMUyRsQwRcQ5TcczR8VZadCNmN+vuOnFy++AjdtNX8zx8vv////o6vn7/P7i5fdBVMlicdLY3PTP1PKZo+K6wextfNakreV2g9gfSrnCAAABI0lEQVR4Ad3Rx4EDIQwFUIRE1pDB03+lO2Gd7Qb8L6RHFr8XkAKRJH0bFkoba43z9JGAN4HDskROOn8QUGpsTnlfeorjXUhVQ88SiCT4wa8ChB9RC/pv5a3xBEiZhQfSzfuUvLwTmim2i4KHFTubmeHaUktwGQDpDsoSo71OwREdECizd8CpUE0T6ylABYtEqnJTROXoJAESdRy4A7mylgINM19wLnUXmTaENhxaOnZSwBo5riUxNw/u2F5qXuUOZuwg5A6mOoALXBXdAPmlZjoBVuaRB/PxaiYWKfZcuOMJ8g6EZg4KaA3tfHDyLfYHQAcgHcKE60u1IeYGHDZmi443iy2t94fLReSLtR1Xa4fyxlqN08PTd5JAREG45awCid/JH5X3D4qGe2LBAAAAAElFTkSuQmCC",
-  //     },
-  //   ],
-  // },
   {
     title: "Others",
     skills: [
       {
         name: "Git",
-        image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
-      },
+        image:Git,
+           },
       {
         name: "GitHub",
         image:
@@ -138,9 +132,8 @@ export const skills = [
       },
       {
         name: "Postman",
-        image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
-      },
+        image:Post,
+            },
       {
         name: "Versel",
         image:
@@ -148,9 +141,7 @@ export const skills = [
       },
       {
         name: "Figma",
-        image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
-      },
+        image:Figma,},
     ],
   },
 ];
@@ -159,8 +150,8 @@ export const experiences = [
 
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C4D0BAQEm_0ntX9UAlg/company-logo_200_200/0/1672719888099?e=1699488000&v=beta&t=CDxq4U88gQwFMMrev3xDgGCIZvsGGQJhEgZEurSOSTo",
-    role: "Web Developer Trainee",
+    img: Gr,
+     role: "Web Developer Trainee",
     company: "Graphic Era Hill University",
     date: "June 2023 - Present",
     desc: "Built an enrollment portal full stack web app used React, Php and deployed on AWS ec2. I was the top performer in the program.",
@@ -177,8 +168,8 @@ export const experiences = [
 
   {
     id: 3,
-    img: "https://media.licdn.com/dms/image/D4D0BAQHWecVdo6_CUw/company-logo_100_100/0/1690364566368?e=1699488000&v=beta&t=tzCUpVX-15yiTecvef9jh9Qbx9A8rGEnDyU2f0Vp2Kw",
-    role: "Frontend Developer Intern",
+    img: High,
+     role: "Frontend Developer Intern",
     company: "Highpolar Software",
     date: "Feb 2024 - Ongoing",
     desc: "As an Frontend Developer Intern at Highpolar Software, I am gaining valuable hands-on experience in app as well as website development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and Mongo Db and implemented a front-end with react, which was designed using Figma. I also added a some features, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Website development and gave me an opportunity to work in a collaborative team environment.",
@@ -200,17 +191,17 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4D0BAQEm_0ntX9UAlg/company-logo_200_200/0/1672719888099?e=1699488000&v=beta&t=CDxq4U88gQwFMMrev3xDgGCIZvsGGQJhEgZEurSOSTo",
+    img: Gehu,
     school: "Graphic Era Hill University, Haldwani",
     date: "Oct 2021 - July 2025",
     grade: "7.8 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Graphic Era Hill University, Haldwani. Currently in 5th semester. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web XR, and UI/UX, among others. I am also a member of the Software Development Cell at GEHU, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Graphic Era Hill University, Haldwani. Currently in 6th semester. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web XR, and UI/UX, among others. I am also a member of the Software Development Cell at GEHU, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
     id: 1,
-    img:"https://media.licdn.com/dms/image/D4D22AQED9CC9_il8bA/feedshare-shrink_800/0/1694803265102?e=1701302400&v=beta&t=ChzejOBfItGZsD7tGWBatUVyaW07jgFzZKpNm3EquVE",
-    school: "St. Theresa Sr. Sec. School Kathgodam, Nainital",
+    img:School,
+     school: "St. Theresa Sr. Sec. School Kathgodam, Nainital",
     date: "Apr 2019 - Apr 2021",
     grade: "81.2%",
     desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
@@ -218,8 +209,8 @@ export const education = [
   },
   {
     id: 2,
-    img:"https://media.licdn.com/dms/image/D4D22AQED9CC9_il8bA/feedshare-shrink_800/0/1694803265102?e=1701302400&v=beta&t=ChzejOBfItGZsD7tGWBatUVyaW07jgFzZKpNm3EquVE",
-    school: "St. Theresa Sr. Sec. School Kathgodam, Nainital",
+    img:School,
+     school: "St. Theresa Sr. Sec. School Kathgodam, Nainital",
     date: "Apr 2017 - Apr 2019",
     grade: "86.3%",
     desc: "I completed my class 10 education at St. Theresa Sr. Sec. School Kathgodam, Nainital, where I studied Science with Computer Application.",
@@ -229,16 +220,16 @@ export const education = [
 
 export const projects = [
   {
-    id: 7,
-    title: "ICACIS 2023",
-    date: "June 2023 - July 2023",
+    id: 4,
+    title: "Web AR",
+    date: "Sept 2023 - Nov 2023",
     description:
-      "1st Internal Conference website.Me and my teammeats Mayank Bisht and Gayatri Mehta have worked on the website for School of Computing, Graphic Era Hill University (GEHU) Haldwani (U. K.), India is organizing an “International Conferences on Advanced Computing and Information Science (ICACIS-2023)” which was held on August 11-12th, 2023. It was a conference to write your paper and present it to be selected to public the paper , it was held on international level .",
-    image:"../images/game.png",
-    tags: ["React Js", "Redux", "Modular Css", "Versel"],
+      "The Web-Ar project employs three.js and Web XR where user can see select the products and see the 3d illustration of the product in real life .The characters also have the different animationa that makes this project different from others. The user can change the color of the character and it will reflect in AR also .",
+    image:Ar,
+    tags: ["React Js", "Three Js", "Web XR", "Tailwind CSS"],
     category: "web app",
-    github: "https://github.com/Priyanshu-752/Dicct",
-    webapp: "https://icacis2023.gehu.ac.in/",
+    github: "https://github.com/Priyanshu-752/WebAR",
+    webapp: "https://web-ar-xi.vercel.app/",
   },
   {
     id: 3,
@@ -262,7 +253,7 @@ export const projects = [
     date: "Jul 2023 - Aug 2023",
     description:
       "Mumble is a video conferencing app in which user can make their personal rooms and can add their friends in it .It has video call , chat functonality , also shows number of participants and many more features.",
-    image:"https://media.licdn.com/dms/image/D4D22AQHg7vEJ5mtVXg/feedshare-shrink_2048_1536/0/1694802739115?e=1701302400&v=beta&t=8SoUCBFCurSr3rIhfZ5WJyjikzzWQZa1NqY7FHigcYE",
+    image:Call,
      tags: [
       "Versel",
       "WebRtc",
@@ -276,23 +267,12 @@ export const projects = [
     webapp: "https://video-chat-ashen.vercel.app/",
   },
   {
-    id: 7,
-    title: "Paper Bank",
-    date: "Dec 2023 - Feb 2024",
-    description:"It a platform for the students where you get all question papers at one place and research paper to get reference for your projects. Built by the Software Cell Team of Graphic Era Hill University, Haldwani.",
-    image:"../images/game.png",
-    tags: ["React Js", "Redux", "Modular Css", "Versel"],
-    category: "web app",
-    github: "https://github.com/Priyanshu-752/Paper-Bank",
-    webapp: "https://paper-bank.vercel.app/",
-  },
-  {
     id: 2,
     title: "Fitness App",
     date: "Dec 2023 - Jan 2024",
     description:"A fitness app that provides all the information about all the most effective experiences listed in a categorial manner with dummy animation of the experiences ",
-    image:"https://media.licdn.com/dms/image/D4D22AQHg7vEJ5mtVXg/feedshare-shrink_2048_1536/0/1694802739115?e=1701302400&v=beta&t=8SoUCBFCurSr3rIhfZ5WJyjikzzWQZa1NqY7FHigcYE",
-     tags: [
+    image:Fit,
+    tags: [
       "Typescript",
       "React Native",
       "Tailwind Css",
@@ -303,25 +283,13 @@ export const projects = [
     // webapp: "https://video-chat-ashen.vercel.app/",
   },
   {
-    id: 0,
-    title: "News Journey",
-    date: "Mar 2023 - Apr 2023",
-    description:
-      "It is a news app that provide latest news in front page. It also has search functionality i.e. user can search about the topic about which they want to know , categories section such as sports, politics, entertainment, health, etc.",
-    image:"https://media.licdn.com/dms/image/D4D22AQHSvYLQHDMSEA/feedshare-shrink_2048_1536/0/1694802739886?e=1701302400&v=beta&t=0bdi-4Q98zjLyfbyRJCSVBnLw2pth0ODXnWMtpA22UE",
-     tags: ["Next Js", "Typescript", "Tailwind Css", "News Api"],
-    category: "web app",
-    github: "https://github.com/Priyanshu-752/News__Jour",
-    webapp: "https://news-jour.vercel.app/",
-  },
-  {
     id: 1,
     title: "Resume Buddy",
     date: "Mar 2023 - Mar 2023",
     description:
-      "It's an resume building app. In this you can add title and can shift the position of the titles, It provides all nesscary information details. ",
-    image:"https://media.licdn.com/dms/image/D4D22AQGYtqh4D5T0DA/feedshare-shrink_2048_1536/0/1694802737783?e=1701302400&v=beta&t=-3Pli-Knf-mOZ197sK2LK3ZJk-Sn4yxvG_X3e2ga9po",
-      tags: [
+    "It's an resume building app. In this you can add title and can shift the position of the titles, It provides all nesscary information details. ",
+    image:Resume,
+    tags: [
       "React Js",
       "Node Js",
       "Redux",
@@ -331,15 +299,50 @@ export const projects = [
     github: "https://github.com/Priyanshu-752/Resume_buddy",
     webapp: "https://resume-buddy.vercel.app/",
   },
-
+  {
+    id: 7,
+    title: "Paper Bank",
+    date: "Dec 2023 - Feb 2024",
+    description:"It a platform for the students where you get all question papers at one place and research paper to get reference for your projects. Built by the Software Cell Team of Graphic Era Hill University, Haldwani.",
+    image:Paper,
+    tags: ["React Js", "Redux", "Modular Css", "Versel"],
+    category: "web app",
+    github: "https://github.com/Priyanshu-752/Paper-Bank",
+    webapp: "https://paper-bank.vercel.app/",
+  },
+  {
+    id: 7,
+    title: "ICACIS 2023",
+    date: "June 2023 - July 2023",
+    description:
+      "1st Internal Conference website.Me and my teammeats Mayank Bisht and Gayatri Mehta have worked on the website for School of Computing, Graphic Era Hill University (GEHU) Haldwani (U. K.), India is organizing an “International Conferences on Advanced Computing and Information Science (ICACIS-2023)” which was held on August 11-12th, 2023. It was a conference to write your paper and present it to be selected to public the paper , it was held on international level .",
+    image:Icas,
+    tags: ["React Js", "Redux", "Modular Css", "Versel"],
+    category: "web app",
+    github: "https://github.com/Priyanshu-752/Dicct",
+    webapp: "https://icacis2023.gehu.ac.in/",
+  },
+  {
+    id: 0,
+    title: "News Journey",
+    date: "Mar 2023 - Apr 2023",
+    description:
+    "It is a news app that provide latest news in front page. It also has search functionality i.e. user can search about the topic about which they want to know , categories section such as sports, politics, entertainment, health, etc.",
+    image:News,
+    tags: ["Next Js", "Typescript", "Tailwind Css", "News Api"],
+    category: "web app",
+    github: "https://github.com/Priyanshu-752/News__Jour",
+    webapp: "https://news-jour.vercel.app/",
+  },
+  
   {
     id: 6,
     title: "Nike 2.0",
     date: "Nov 2022",
     description:
-      "Its an Upgraded verson of nike e-commerce website designed by me.",
-    image:"https://media.licdn.com/dms/image/D4D22AQGEPqzdA6SzUg/feedshare-shrink_2048_1536/0/1694802739901?e=1701302400&v=beta&t=Nimksdlr8PxO_uXWTVW9mWQKQ637GrDyW2xPB9YKPUo",
-    tags: ["React Js", "Redux", "Tailwind Css", "Versel"],
+    "Its an Upgraded verson of nike e-commerce website designed by me.",
+    image:Nike,
+     tags: ["React Js", "Redux", "Tailwind Css", "Versel"],
     category: "web app",
     github: "https://github.com/Priyanshu-752/Nike-2.0",
     webapp: "https://nike-2-0.vercel.app/",
