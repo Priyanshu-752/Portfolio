@@ -15,6 +15,7 @@ import Exp from "../images/express.png";
 import Post from "../images/postman.png";
 import Git from "../images/git.png";
 import Fit from "../images/fit.png";
+import File from "../images/file.png";
 
 export const Bio = {
   name: "Priyanshu Negi",
@@ -27,7 +28,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Priyanshu-752",
   resume:
-    "https://drive.google.com/file/d/11lTv_xH3M37oXXx5QUhaU5ezfef3cyIi/view?usp=sharing",
+    "https://drive.google.com/file/d/11m1S5wQ6Oth-sx-ojf2g9AH0r12rT93o/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/priyanshu-negi-87a56124a/",
   twitter: "https://twitter.com/Priyanshu_1105",
   insta: "https://www.instagram.com/_priyansh_u123/",
@@ -219,6 +220,18 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 4,
+    title: "Panda Share",
+    date: "April 2024 - May 2024",
+    description:
+      "Panda Share is a user-friendly file sharing platform allowing users to convert files into shareable links or send them directly via email.The platform provides a dashboard where users can view all their shared files, with an option to secure them using passwords..",
+    image:File,
+    tags: ["Next.Js", "Firebase", "Clerk", "Tailwind CSS"],
+    category: "web app",
+    github: "https://github.com/Priyanshu-752/file-sharing",
+    webapp: "https://file-sharing-seven-zeta.vercel.app/",
+  },
   {
     id: 4,
     title: "Web AR",
