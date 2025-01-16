@@ -16,6 +16,8 @@ import Post from "../images/postman.png";
 import Git from "../images/git.png";
 import Fit from "../images/fit.png";
 import File from "../images/file.png";
+import AI from "../images/ai.png";
+import Ride from "../images/ride.png";
 
 export const Bio = {
   name: "Priyanshu Negi",
@@ -28,7 +30,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Priyanshu-752",
   resume:
-    "https://drive.google.com/file/d/1ypGdf3GHuqdKxQzG1Gc8wEjJ1Pk-TIXc/view?usp=sharing",
+    "https://drive.google.com/file/d/19AfIZ960fsfYWuacSnopaSfQkTxKD2L9/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/priyanshu-negi-87a56124a/",
   twitter: "https://twitter.com/Priyanshu_1105",
   insta: "https://www.instagram.com/_priyansh_u123/",
@@ -107,6 +109,10 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
+      {
+        name: "MobX",
+        image: "https://mobx.js.org/assets/mobx.png",
+      },
     ],
   },
   {
@@ -154,7 +160,7 @@ export const experiences = [
     img: Gr,
      role: "Web Developer Trainee",
     company: "Graphic Era Hill University",
-    date: "June 2023 - Present",
+    date: "June 2023 - September 2024",
     desc: "Built an enrollment portal full stack web app used React, Php and deployed on AWS ec2. I was the top performer in the program.",
     skills: [
       "ReactJS",
@@ -221,9 +227,9 @@ export const education = [
 
 export const projects = [
   {
-    id: 4,
+    id: 1,
     title: "Panda Share",
-    date: "April 2024 - May 2024",
+    date: "September 2024 - December 2024",
     description:
       "Panda Share is a user-friendly file sharing platform allowing users to convert files into shareable links or send them directly via email.The platform provides a dashboard where users can view all their shared files, with an option to secure them using passwords..",
     image:File,
@@ -231,6 +237,18 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Priyanshu-752/file-sharing",
     webapp: "https://file-sharing-seven-zeta.vercel.app/",
+  },
+  {
+    id: 4,
+    title: "Ai Mockster",
+    date: "April 2024 - May 2024",
+    description:
+      "Developed an AI-powered platform for mock interview preparation, tailored to users' skills and experience. The platform generates questions, analyzes responses, and provides detailed feedback, improving user engagement and satisfaction. Features include five free mock tests with subscription-based access to additional tests, resulting in a significant increase in user sign-ups and engagement.",
+    image:AI,
+    tags: ["Next.Js", "PostgreSQOL", "Clerk", "Tailwind CSS", "Dribble ORM"],
+    category: "web app",
+    github: "https://github.com/Priyanshu-752/AI-Mockster",
+    webapp: "https://ai-mockster.vercel.app/",
   },
   {
     id: 4,
@@ -249,7 +267,7 @@ export const projects = [
     title: "Ride Share",
     date: "Jan 2024 - Ongoing",
     description:" A groundbreaking platform fusing Uber-style ride-hailing with localized transport solutions, linking users seamlessly with rickshaw and auto drivers. Additionally, innovatively designed a thriving local marketplace within the app, connecting users with trustworthy household workers, mechanics, plumbers, and more.",
-    image:"https://media.licdn.com/dms/image/D4D22AQHg7vEJ5mtVXg/feedshare-shrink_2048_1536/0/1694802739115?e=1701302400&v=beta&t=8SoUCBFCurSr3rIhfZ5WJyjikzzWQZa1NqY7FHigcYE",
+    image:Ride,
      tags: [
       "React Native",
       "MongoDB",
